@@ -2,7 +2,7 @@
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
-echo "Deploying Delta Web..."
+echo "Deploying Sterling Web..."
 npm install
 npm run build
 
