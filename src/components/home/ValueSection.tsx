@@ -74,7 +74,7 @@ export default function ValueSection() {
 
             {/* Paragraph Description */}
             <p className="text-sm sm:text-base text-neutral-600 leading-relaxed max-w-xl">
-              At Delta Green Agro, we believe that agricultural resources, when managed with discipline and foresight, can serve as a powerful foundation for sustainable wealth creation. Our operations are guided by strict environmental standards, eco-friendly farming practices, and a commitment to maximizing crop yield — for our investors, local farming communities, and the planet. We don't just cultivate value; we engineer it responsibly, ensuring long-term yield without compromising ecological integrity.
+              At Sterling Harvest, we believe that agricultural resources, when managed with discipline and foresight, can serve as a powerful foundation for sustainable wealth creation. Our operations are guided by strict environmental standards, eco-friendly farming practices, and a commitment to maximizing crop yield — for our investors, local farming communities, and the planet. We don't just cultivate value; we engineer it responsibly, ensuring long-term yield without compromising ecological integrity.
             </p>
 
             <div className="w-full h-[1px] bg-neutral-300/60 my-2" />

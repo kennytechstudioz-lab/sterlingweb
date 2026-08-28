@@ -98,7 +98,7 @@ export default function ForgotPasswordResetPage() {
           Set New Password
         </h2>
         <p className="text-sm text-neutral-400 font-light">
-          Create a strong new password for your Delta Green Agro account.
+          Create a strong new password for your Sterling Harvest account.
         </p>
       </div>
 

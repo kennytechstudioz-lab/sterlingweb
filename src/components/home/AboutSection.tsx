@@ -61,7 +61,7 @@ export default function AboutSection({ hideReadMore = false }: AboutSectionProps
 
               {/* Body Description */}
               <p className="text-sm sm:text-base text-neutral-600 leading-relaxed mb-8">
-                Delta Green Agro is a forward-thinking investment firm dedicated to delivering consistent, high-yield returns to investors worldwide. With a diversified portfolio spanning clean energy, real assets, and structured financial instruments, we have built a proven track record of profitable performance that continues to grow year after year.
+                Sterling Harvest is a forward-thinking investment firm dedicated to delivering consistent, high-yield returns to investors worldwide. With a diversified portfolio spanning clean energy, real assets, and structured financial instruments, we have built a proven track record of profitable performance that continues to grow year after year.
               </p>
 
               {/* Bottom Cards / Lists */}

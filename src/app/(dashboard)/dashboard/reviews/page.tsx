@@ -93,7 +93,7 @@ export default function UserReviewsPage() {
           Investor Reviews & Feedback
         </h1>
         <p className="text-xs text-neutral-400 font-medium">
-          Share your agricultural investment experience with the Delta Green Agro community and view live testimonials.
+          Share your agricultural investment experience with the Sterling Harvest community and view live testimonials.
         </p>
       </div>
 
@@ -208,7 +208,7 @@ export default function UserReviewsPage() {
                 No verified reviews published yet
               </span>
               <p className="text-[11px] text-neutral-500 max-w-sm text-center">
-                Submit your investment review to become one of the first featured Delta Green Agro advisors!
+                Submit your investment review to become one of the first featured Sterling Harvest advisors!
               </p>
             </div>
           ) : (

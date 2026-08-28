@@ -11,6 +11,6 @@ cp -r public .next/standalone/
 cp -r .next/static .next/standalone/.next/
 
 # Restart/Start standalone server using PM2
-pm2 restart "deltagreen-web" || pm2 start .next/standalone/server.js --name "deltagreen-web"
+pm2 restart "sterling-web" || pm2 start .next/standalone/server.js --name "sterling-web"
 
-echo "Delta Web deployed successfully!"
+echo "Sterling Web deployed successfully!"

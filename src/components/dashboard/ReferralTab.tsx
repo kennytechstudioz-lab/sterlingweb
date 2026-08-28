@@ -64,7 +64,7 @@ export function ReferralTab() {
         <div className="max-w-md flex flex-col items-center">
           <h4 className="text-xl font-black text-white tracking-tight uppercase">Investor Referral Network</h4>
           <p className="text-xs text-neutral-400 mt-1 font-light leading-relaxed">
-            Invite fellow clean tech investors to Delta Green Agro. Share your dynamic QR code or invite link below to secure premium percentage compounding rewards on their initial active deposits.
+            Invite fellow clean tech investors to Sterling Harvest. Share your dynamic QR code or invite link below to secure premium percentage compounding rewards on their initial active deposits.
           </p>
         </div>
 

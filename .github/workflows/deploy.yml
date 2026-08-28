@@ -21,7 +21,7 @@ jobs:
             export NVM_DIR="$HOME/.nvm"
             [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
             export PATH=$PATH:/usr/local/bin:/usr/bin
-            cd /var/www/projects/investment/delta/web
+            cd /var/www/projects/investment/sterling/web
             git fetch origin main
             git reset --hard origin/main
             bash /var/www/projects/investment/delta/web/deploy.sh

@@ -104,11 +104,11 @@ export default function Footer() {
 
           {/* Column 4: Brand Logo, Copy & Address */}
           <div className="lg:col-span-4 flex flex-col gap-6">
-            {/* Delta Icon */}
+            {/* Brand Icon */}
             <div className="relative h-[52px] w-[52px]">
               <Image
                 src="/DeltaIcon.png"
-                alt="Delta Green Agro"
+                alt="Sterling Harvest"
                 fill
                 className="object-contain object-left brightness-0 invert"
               />

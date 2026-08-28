@@ -91,7 +91,7 @@ export default function ServicesSection() {
           {/* Right Sub-text block */}
           <div className="lg:col-span-6 pt-2 lg:pt-4">
             <p className="text-sm sm:text-base text-neutral-500 leading-relaxed max-w-xl">
-              Delta Green Agro provides a comprehensive suite of structured investment services built to grow your wealth steadily. From diversified portfolio management to daily dividend payouts, we deliver transparent, high-yield solutions tailored to every investor.
+              Sterling Harvest provides a comprehensive suite of structured investment services built to grow your wealth steadily. From diversified portfolio management to daily dividend payouts, we deliver transparent, high-yield solutions tailored to every investor.
             </p>
           </div>
         </div>

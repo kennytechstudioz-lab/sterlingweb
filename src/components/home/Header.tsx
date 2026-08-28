@@ -82,7 +82,7 @@ export default function Header() {
               <div className="relative h-[52px] w-[187px]">
                 <Image
                   src="/DeltaLogo.png"
-                  alt="Delta Green Agro"
+                  alt="Sterling Harvest"
                   fill
                   className="object-contain object-left"
                   priority
@@ -240,7 +240,7 @@ export default function Header() {
               <div className="relative h-[52px] w-[187px]">
                 <Image
                   src="/DeltaLogo.png"
-                  alt="Delta Green Agro"
+                  alt="Sterling Harvest"
                   fill
                   className="object-contain object-left brightness-0 invert"
                 />

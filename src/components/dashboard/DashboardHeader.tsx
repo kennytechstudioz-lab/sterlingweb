@@ -14,7 +14,7 @@ export function DashboardHeader({ tab }: { tab: string }) {
             ? "Track clean energy yields, CCUS dividends, and carbon certificates from registered wallets."
             : tab === "settings"
             ? "Manage your multi-factor security, change password, and configure payout destination addresses."
-            : `Manage your ${tab.replace("-", " ")} parameters, history, and Delta Green Agro sustainable tranches.`}
+            : `Manage your ${tab.replace("-", " ")} parameters, history, and Sterling Harvest sustainable tranches.`}
         </p>
       </div>
     </div>

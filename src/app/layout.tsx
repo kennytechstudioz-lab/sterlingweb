@@ -15,26 +15,26 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Delta Green Agro | Secure Agricultural Investment Platform",
-    template: "%s | Delta Green Agro"
+    default: "Sterling Harvest | Secure Agricultural Investment Platform",
+    template: "%s | Sterling Harvest"
   },
-  description: "Delta Green Agro is a world-class sustainable agricultural investment and production company. Secure robust daily compound returns from scalable crop cultivation, agro-commodities distribution, and farm logistics directly through our secure, high-yield digital investment platform.",
-  keywords: ["Delta Green Agro", "Agricultural Investment", "Smart Farming Platform", "Daily Yield returns", "Crop Cultivation", "Agro Commodities", "Secure yield platform", "sustainable agriculture", "daily farm returns"],
+  description: "Sterling Harvest is a world-class sustainable agricultural investment and production company. Secure robust daily compound returns from scalable crop cultivation, agro-commodities distribution, and farm logistics directly through our secure, high-yield digital investment platform.",
+  keywords: ["Sterling Harvest", "Agricultural Investment", "Smart Farming Platform", "Daily Yield returns", "Crop Cultivation", "Agro Commodities", "Secure yield platform", "sustainable agriculture", "daily farm returns"],
   robots: {
     index: true,
     follow: true,
   },
   openGraph: {
-    title: "Delta Green Agro | Secure Agricultural Investment Platform",
-    description: "Delta Green Agro is a world-class sustainable agricultural investment and production company. Secure robust daily compound returns from scalable crop cultivation, agro-commodities distribution, and farm logistics directly through our secure, high-yield digital investment platform.",
+    title: "Sterling Harvest | Secure Agricultural Investment Platform",
+    description: "Sterling Harvest is a world-class sustainable agricultural investment and production company. Secure robust daily compound returns from scalable crop cultivation, agro-commodities distribution, and farm logistics directly through our secure, high-yield digital investment platform.",
     url: "https://deltagreenagro.org",
-    siteName: "Delta Green Agro",
+    siteName: "Sterling Harvest",
     images: [
       {
         url: "/DeltaLogo.png",
         width: 800,
         height: 600,
-        alt: "Delta Green Agro",
+        alt: "Sterling Harvest",
       },
     ],
     locale: "en_US",
@@ -42,8 +42,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Delta Green Agro | Secure Agricultural Investment Platform",
-    description: "Delta Green Agro is a world-class sustainable agricultural investment and production company. Secure robust daily compound returns from scalable crop cultivation, agro-commodities distribution, and farm logistics directly through our secure, high-yield digital investment platform.",
+    title: "Sterling Harvest | Secure Agricultural Investment Platform",
+    description: "Sterling Harvest is a world-class sustainable agricultural investment and production company. Secure robust daily compound returns from scalable crop cultivation, agro-commodities distribution, and farm logistics directly through our secure, high-yield digital investment platform.",
     images: ["/DeltaLogo.png"],
   },
 };

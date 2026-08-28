@@ -333,7 +333,7 @@ export default function AdminEmailTemplatesPage() {
                   value={title}
                   onChange={(e) => setTitle(e.target.value)}
                   className="w-full bg-[#13151a] border border-neutral-800/80 rounded px-4 py-2.5 text-xs text-white placeholder-neutral-600 focus:outline-none focus:border-[#e4c126]"
-                  placeholder="e.g. Welcome to Delta Green Agro"
+                  placeholder="e.g. Welcome to Sterling Harvest"
                 />
               </div>
 

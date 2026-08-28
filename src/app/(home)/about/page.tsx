@@ -66,7 +66,7 @@ export default function AboutPage() {
                 Company Registration & Official Documents
               </h2>
               <p className="text-sm text-neutral-500 max-w-2xl leading-relaxed">
-                Delta Green Agro operates with full regulatory transparency. Below you will find our official company registration record and supporting compliance documents for your review.
+                Sterling Harvest operates with full regulatory transparency. Below you will find our official company registration record and supporting compliance documents for your review.
               </p>
             </div>
 

@@ -44,7 +44,7 @@ export default function PageLoader() {
         <div className="relative h-16 w-56 animate-pulse select-none">
           <Image
             src="/DeltaLogo.png"
-            alt="Delta Green Agro Logo"
+            alt="Sterling Harvest Logo"
             fill
             className="object-contain"
             priority

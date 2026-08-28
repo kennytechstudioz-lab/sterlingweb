@@ -141,7 +141,7 @@ export default function SolutionsSection() {
 
             {/* Paragraph copy */}
             <p className="text-sm sm:text-base text-white/70 leading-relaxed max-w-xl">
-              Delta Green Agro brings institutional-grade investment infrastructure to individual and corporate investors worldwide. Our integrated approach combines mechanized crop cultivation, efficient supply distribution, and strategic farming partnerships — delivering consistent returns backed by real, tangible agricultural assets.
+              Sterling Harvest brings institutional-grade investment infrastructure to individual and corporate investors worldwide. Our integrated approach combines mechanized crop cultivation, efficient supply distribution, and strategic farming partnerships — delivering consistent returns backed by real, tangible agricultural assets.
             </p>
 
             {/* Discover More CTA Button */}

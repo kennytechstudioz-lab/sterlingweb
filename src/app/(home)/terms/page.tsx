@@ -43,7 +43,7 @@ export default function TermsPage() {
           </h1>
           <div className="border-l-4 border-[#e4c126] pl-6 py-1 max-w-2xl">
             <p className="text-base sm:text-lg md:text-xl font-medium text-white/95 leading-relaxed">
-              Please read these terms carefully before using the Delta Green Agro investment platform.
+              Please read these terms carefully before using the Sterling Harvest investment platform.
             </p>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default function TermsPage() {
           </div>
 
           <p className="text-center text-xs text-neutral-400 mt-8">
-            Last updated: {new Date().toLocaleDateString("en-GB", { year: "numeric", month: "long", day: "numeric" })} &mdash; Delta Green Agro
+            Last updated: {new Date().toLocaleDateString("en-GB", { year: "numeric", month: "long", day: "numeric" })} &mdash; Sterling Harvest
           </p>
         </div>
       </section>
